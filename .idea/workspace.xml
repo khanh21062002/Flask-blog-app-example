@@ -59,7 +59,7 @@
     "Flask server.FlaskTutorial.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/FlaskProject/FlaskTutorial",
     "list.type.of.created.stylesheet": "CSS",
@@ -156,7 +156,7 @@
       <workItem from="1726796216809" duration="10466000" />
       <workItem from="1726814795222" duration="2171000" />
       <workItem from="1726818541576" duration="2307000" />
-      <workItem from="1726883512156" duration="2197000" />
+      <workItem from="1726883512156" duration="2583000" />
     </task>
     <task id="LOCAL-00001" summary="Flask Blog app tutorial">
       <option name="closed" value="true" />
@@ -198,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726885682315</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update heroku deployment files">
+      <option name="closed" value="true" />
+      <created>1726885927490</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726885927490</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update heroku deployment files">
+      <option name="closed" value="true" />
+      <created>1726886088553</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726886088553</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,19 +225,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
