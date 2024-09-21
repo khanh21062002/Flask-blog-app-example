@@ -7,7 +7,7 @@ def create_app(test_config=None):
     # Tạo và cấu hình ứng dụng
     app = Flask(__name__, instance_relative_config=True)
     app.config.from_mapping(
-        SECRET_KEY='d01086a994cac7d5eca06fcc16c157e7c39d7db4',
+        SECRET_KEY='2e148878af7092cecc934c86792760439dc906b9',
         DATABASE='postgresql://forum:123456@localhost:5432/postgres',
     )
 
