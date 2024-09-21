@@ -4,6 +4,9 @@ from flask import Flask
 
 # Khi chạy localhost hãy sử dụng đường dẫn database này
 # postgresql://forum:123456@localhost:5432/postgres
+# Còn đây là khi chạy trên server
+# DATABASE='postgres://u414qssced6lgj:pad4f7ad587b122467d65d025678d2f2b730b8a6a13410829b5c128714ff9b283@ccba8a0vn4fb2p.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com:5432/d2huvf9c1v999i',
+
 def create_app(test_config=None):
     # Tạo và cấu hình ứng dụng
     app = Flask(__name__, instance_relative_config=True)

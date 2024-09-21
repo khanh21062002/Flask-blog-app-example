@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ae4f41-b749-4ca9-ab94-44ebd8887f11" name="Changes" comment="Update and config heroku deployment files">
+    <list default="true" id="c7ae4f41-b749-4ca9-ab94-44ebd8887f11" name="Changes" comment="Config and fix heroku deployment files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +157,7 @@
       <workItem from="1726814795222" duration="2171000" />
       <workItem from="1726818541576" duration="2307000" />
       <workItem from="1726883512156" duration="2583000" />
-      <workItem from="1726886165398" duration="7647000" />
+      <workItem from="1726886165398" duration="9001000" />
     </task>
     <task id="LOCAL-00001" summary="Flask Blog app tutorial">
       <option name="closed" value="true" />
@@ -293,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726900717642</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Config and fix heroku deployment files">
+      <option name="closed" value="true" />
+      <created>1726901777764</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726901777764</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +325,8 @@
     <MESSAGE value="Add heroku deployment files" />
     <MESSAGE value="Update heroku deployment files" />
     <MESSAGE value="Update and config heroku deployment files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update and config heroku deployment files" />
+    <MESSAGE value="Config and fix heroku deployment files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Config and fix heroku deployment files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FlaskTutorial$FlaskTutorial.coverage" NAME="FlaskTutorial Coverage Results" MODIFIED="1726805818709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
